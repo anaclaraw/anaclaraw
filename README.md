@@ -8,8 +8,8 @@
 📁 Confira meus projetos públicos e se quiser entre em contato pelas minhas redes socias.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaraw&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaraw&show_icons=true&theme=radical)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaraw&show_icons=true&theme=radical) -->
+ 
 <div>
   <img height="30" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit" />
   <img height="30" width="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
