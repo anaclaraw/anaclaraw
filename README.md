@@ -2,10 +2,10 @@
 💡 Eu adoro programação e atualmente estou estudando diferentes áreas em busca de me encontrar nesse mundo tech.
 
 
-💻 Criar projetos desperta minha criatividade!
+💻 Meus projetos despertam minha criatividade!
 
 
-📁 Confira meus projetos públicos e se quiser entre em contato pelas minhas redes socias.
+📁 Confira meus repositórios públicos e se quiser entre em contato pelas minhas redes socias.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaraw&layout=compact&theme=radical)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaraw&show_icons=true&theme=radical) -->
