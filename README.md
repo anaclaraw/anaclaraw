@@ -22,8 +22,7 @@
   <img height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img height="30" width="50" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img height="30" width="50" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img height="30" width="50" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img height="30" width="50" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+
 </div>
 
 
