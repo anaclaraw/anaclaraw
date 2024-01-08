@@ -26,6 +26,9 @@
 </div>
 
 
+[![Streak](https://streak-stats.demolab.com/?user=anaclaraw&theme=bear&background=000&border=white&dates=white)](https://git.io/streak-stats)
+
+
 ### Redes:
 <div>
   <a href="https://www.linkedin.com/in/euanaclaramelo" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
