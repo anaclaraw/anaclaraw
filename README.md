@@ -1,5 +1,5 @@
 ## Oii prazer, eu sou a Ana :) 
-💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de me encontrar nesse mundo tech.
+💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir cada vez mais no mundo tech.
 
 
 💻 Meus projetos despertam minha criatividade!
