@@ -7,7 +7,7 @@
 
 📁 Confira meus repositórios públicos e se quiser entre em contato pelas minhas redes socias.
 
-🔭 Se quiser visite também meu perfil de estudos [anaclaraw](https://github.com/anaclaraww)
+🔭 Se quiser visite também meu perfil de estudos [anaclaraww](https://github.com/anaclaraww).
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaraw&layout=compact&theme=radical)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaraw&show_icons=true&theme=radical) -->
