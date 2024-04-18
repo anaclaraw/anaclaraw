@@ -1,4 +1,4 @@
-## Oii prazer, eu sou a Ana :) 
+<h1 align="center"> Olá prazer, eu sou a Ana :) </h1>
 💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir cada vez mais no mundo tech.
 
 
