@@ -1,12 +1,11 @@
 <h1 align="center"> Olá prazer, eu sou a Ana :) </h1>
+
 💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir cada vez mais no mundo tech.
-
-
+<br></br>
 💻 Meus projetos são frutos dos meus estudos, e sendo sempre possível evoluir. 
-
-
+<br></br>
 📁 Confira meus repositórios públicos e se quiser entre em contato pelas minhas redes socias.
-
+<br></br>
 🔭 Se quiser visite também meu perfil de estudos [anaclaraww](https://github.com/anaclaraww).
 
 
@@ -25,9 +24,7 @@
   <img height="30" width="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img height="30" width="50" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img height="30" width="50" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
 </div>
-
 
 [![Streak](https://streak-stats.demolab.com/?user=anaclaraw&theme=bear&background=000&border=white&dates=white)](https://git.io/streak-stats)
 
@@ -40,5 +37,5 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/cadastrosanaw)
 
-👀Tem alguma dica/conselho? Manda aí, é sempre bem-vindo!
+#### 👀Tem alguma dica/conselho? Manda aí, é sempre bem-vindo!
 
