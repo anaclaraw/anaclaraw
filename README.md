@@ -1,10 +1,10 @@
 <h1 align="center"> Olá prazer, eu sou a Ana :) </h1>
 
-💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir cada vez mais no mundo tech.
+💡 Eu adoro programação e atualmente estou estudando Engenharia de Software na FIAP, em busca de evoluir cada vez mais no mundo tech.
 <br></br>
-💻 Meus projetos são frutos dos meus estudos, e sendo sempre possível evoluir. 
+💻 Meus projetos são frutos dos meus estudos, sempre tentando por os aprendizados e ideias em prática. 
 <br></br>
-📁 Confira meus repositórios públicos e se quiser entre em contato pelas minhas redes socias.
+📁 Confira meus repositórios públicos aqui e se quiser entre em contato pelas minhas redes .
 <br></br>
 🔭 Se quiser visite também meu perfil de estudos [anaclaraww](https://github.com/anaclaraww).
 
