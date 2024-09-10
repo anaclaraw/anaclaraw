@@ -1,12 +1,16 @@
 <h1 align="center"> Olá prazer, eu sou a Ana :) </h1>
 
-💡 Adoro programar e atualmente estou estudando Engenharia de Software na FIAP.
+<p align="center"> <a href="https:[//www.linkedin.com/in/euanaclaramelo](https://portfolio-anaclaramw.vercel.app/)" >Clique aqui para acessar meu portfólio :star2: </a> </p>
+
+
+💡 Atualmente estou estudando Engenharia de Software na FIAP.
 <br></br>
-💻 Meus projetos são resultados dos meus estudos, sempre tentando por os aprendizados e ideias em prática. 
+💻 Meus projetos são resultados da prática dos meus estudos juntamente com minhas ideias, sempre buscando melhorar. 
 <br></br>
-📁 Fica á vontade para conferir meus repositórios públicos aqui e se quiser entre em contato pelas minhas redes .
+📁 Fique á vontade para conferir meus repositórios públicos aqui e se quiser entre em contato pelas minhas redes .
 <br></br>
-🔭 Se quiser visite também meu perfil de estudos [anaclaraww](https://github.com/anaclaraww).
+🔭 Pode visitar também meu perfil de estudos [anaclaraww](https://github.com/anaclaraww).
+
 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaraw&layout=compact&theme=radical)
