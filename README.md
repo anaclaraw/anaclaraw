@@ -30,7 +30,6 @@
   <img height="30" width="50" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-[![Streak](https://streak-stats.demolab.com/?user=anaclaraw&theme=bear&background=000&border=white&dates=white)](https://git.io/streak-stats)
 
 
 ### Redes:
