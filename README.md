@@ -1,6 +1,6 @@
 <h1 align="center"> Olá prazer, eu sou a Ana :) </h1>
 
-<p align="center"> <a href="https:[//www.linkedin.com/in/euanaclaramelo](https://portfolio-anaclaramw.vercel.app/)" >Clique aqui para acessar meu portfólio :star2: </a> </p>
+<p align="center"> <a href="https://portfolio-anaclaramw.vercel.app/" >Clique aqui para acessar meu portfólio :star2: </a> </p>
 
 
 💡 Atualmente estou estudando Engenharia de Software na FIAP.
